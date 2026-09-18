@@ -19,7 +19,7 @@ Dans le Player on y trouve les différent actions de base tel que le déplacemen
 <img width="1348" height="590" alt="United_Harvest - Unreal Editor 18_09_2026 14_01_59" src="https://github.com/user-attachments/assets/4cd07b07-9a73-45f8-8dd6-2a7eb8315174" />
 
 ### Objet interactif
-Il y a deux type d'objets interactif ceux qui peut être dans l'inventaire et ceux qui ne le peuvent pas, que ce soit l'un ou l'autre il sont tous liée a l'interface d'interaction, BPI_Interact, mais ceux qui peuvent être dans l'inventaire sont tous des enfant du BP_BaseItemet ont une variable contenant les infos de l'item qui est creer avec la strucutre S_ItemInfo.
+Il y a deux type d'objets interactif ceux qui peut être dans l'inventaire et ceux qui ne le peuvent pas, que ce soit l'un ou l'autre il sont tous liée a l'interface d'interaction, BPI_Interact, mais ceux qui peuvent être dans l'inventaire sont tous des enfant du BP_BaseItem ont une variable contenant les infos de l'item qui est créer avec la structure S_ItemInfo.
 
 <img width="1155" height="371" alt="United_Harvest - Unreal Editor 18_09_2026 14_08_55" src="https://github.com/user-attachments/assets/de855aab-d9d2-4794-9b6d-6d207583bac5" />
 <img width="1105" height="612" alt="United_Harvest - Unreal Editor 18_09_2026 14_10_42" src="https://github.com/user-attachments/assets/9ac074b6-e466-42a2-8753-ef69dff0215d" />
