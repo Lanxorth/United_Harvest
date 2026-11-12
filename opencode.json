@@ -1,0 +1,13 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "enginewire": {
+      "type": "remote",
+      "url": "http://127.0.0.1:3000/mcp",
+      "oauth": false,
+      "headers": {
+        "X-MCP-Capability-Token": "{env:ENGINEWIRE_TOKEN}"
+      }
+    }
+  }
+}
